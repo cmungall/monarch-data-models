@@ -20,9 +20,12 @@ object-oriented information models.
 # Domain Modules
 
  * [condition module](condition-module.md)
- * [causal module](causal-condition-module.md)
  * [organism module](organism-module.md)
  * [organism condition profile module](organism-condition-module.md)
+
+# Advanced
+
+ * [causal module](causal-condition-module.md)
 
 
 
